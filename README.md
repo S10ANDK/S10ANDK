@@ -1,16 +1,24 @@
 # Hi there!
 
-Welcome to my GitHub profile! My name is Stian Dille Kornbakk, and I recently completed my studies at Noroff - School of Technology and Digital Media. I am thrilled to have successfully completed a comprehensive 2-year Frontend development course, which has equipped me with a solid foundation in frontend web development.
+Welcome to my GitHub profile! I'm Stian Dille Kornbakk, a frontend developer passionate about creating captivating user experiences. Recently, I completed my studies at Noroff - School of Technology and Digital Media, specializing in frontend development. Currently, I am actively seeking my first frontend job opportunity.
 
-As an aspiring frontend developer, I am now actively seeking my first professional opportunity in the field. With a keen eye for design and a passion for creating engaging user experiences, I am confident in my ability to contribute to innovative projects and deliver high-quality code.
+Skills and Expertise:
 
-My skill set includes expertise in HTML, CSS, and JavaScript, where I can bring designs to life with clean and semantic code. I am proficient in utilizing popular frontend frameworks such as React and styled-components, enabling me to build dynamic and responsive web applications. Additionally, I am well-versed in utilizing tools like Bootstrap for rapid prototyping and creating visually appealing interfaces.
+- HTML, CSS, SASS: I have a strong foundation in web development, employing clean and semantic code to bring designs to life.
+- JavaScript, React, Styled-components: Proficient in utilizing these technologies to build dynamic and responsive web applications.
+- Bootstrap: Skilled in using Bootstrap for rapid prototyping and creating visually appealing interfaces.
+- Adobe XD: Experienced in designing and prototyping user interfaces, ensuring intuitive and user-friendly experiences.
+- WCAG Guidelines: Knowledgeable in following the Web Content Accessibility Guidelines to create inclusive and accessible web applications.
 
-In my development workflow, I prioritize version control and collaboration using Git, allowing for seamless teamwork and efficient code management. I also have experience with content management systems (CMS). To ensure the stability and reliability of my code, I am familiar with testing frameworks like Jest and Cypress.
+Additional Competencies:
 
-I am enthusiastic about continuous learning and staying up-to-date with the latest advancements in frontend technologies. I am excited to contribute my skills, passion, and dedication to a dynamic team where I can grow both professionally and personally.
+- Git: Proficient in utilizing version control and collaboration with Git, ensuring efficient code management and seamless teamwork.
+- CMS: Experienced in content management systems, empowering clients with easy content updates.
+- Jest, Cypress: Familiar with testing frameworks to ensure stable and reliable code.
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with fellow developers and exploring exciting opportunities in the world of frontend development!
+In my development workflow, I emphasize continuous learning to stay updated with the latest frontend technologies. I am committed to creating great designs, adhering to WCAG guidelines to provide inclusive experiences for all users.
+
+Thank you for visiting my GitHub profile! I am excited to connect with fellow developers and explore opportunities to contribute my skills, passion, and dedication to innovative projects. Let's create exceptional web experiences together!
 
 - 💬 Feel free to ask me anything
 - 📫 Get in contact with me on [LinkedIn](https://www.linkedin.com/in/stian-dille-kornbakk-335b5a159/)
