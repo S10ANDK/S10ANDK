@@ -20,5 +20,5 @@ In my development workflow, I emphasize continuous learning to stay updated with
 
 Thank you for visiting my GitHub profile! I am excited to connect with fellow developers and explore opportunities to contribute my skills, passion, and dedication to innovative projects. Let's create exceptional web experiences together!
 
-- 💬 Feel free to ask me anything
-- 📫 Get in contact with me on [LinkedIn](https://www.linkedin.com/in/stian-dille-kornbakk-335b5a159/)
+💬 Feel free to ask me anything
+📫 Get in contact with me on [LinkedIn](https://www.linkedin.com/in/stian-dille-kornbakk-335b5a159/)
