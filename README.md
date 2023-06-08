@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! :wave:
 
 Welcome to my GitHub profile! I'm Stian Dille Kornbakk, a frontend developer passionate about creating captivating user experiences. Recently, I completed my studies at Noroff - School of Technology and Digital Media, specializing in frontend development. Currently, I am actively seeking my first frontend job opportunity.
 
