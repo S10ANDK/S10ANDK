@@ -6,8 +6,8 @@ Skills and Expertise:
 
 - HTML, CSS, SASS: I have a strong foundation in web development, employing clean and semantic code to bring designs to life.
 - JavaScript, React, Styled-components: Proficient in utilizing these technologies to build dynamic and responsive web applications.
-- Bootstrap: Skilled in using Bootstrap for rapid prototyping and creating visually appealing interfaces.
-- Adobe XD: Experienced in designing and prototyping user interfaces, ensuring intuitive and user-friendly experiences.
+- Bootstrap: Proficient in leveraging the power of Bootstrap to accelerate the process of crafting visually appealing interfaces.
+- UI & UX: Experienced in designing and prototyping user interfaces, ensuring intuitive and user-friendly experiences, using tools like Adobe XD.
 - WCAG Guidelines: Knowledgeable in following the Web Content Accessibility Guidelines to create inclusive and accessible web applications.
 
 Additional Competencies:
@@ -20,5 +20,4 @@ In my development workflow, I emphasize continuous learning to stay updated with
 
 Thank you for visiting my GitHub profile! I am excited to connect with fellow developers and explore opportunities to contribute my skills, passion, and dedication to innovative projects. Let's create exceptional web experiences together!
 
-- 💬 Feel free to ask me anything
-- 📫 Get in contact with me on [LinkedIn](https://www.linkedin.com/in/stian-dille-kornbakk-335b5a159/)
+📫 Get in contact with me on [LinkedIn](https://www.linkedin.com/in/stian-dille-kornbakk-335b5a159/)
