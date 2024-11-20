@@ -1,6 +1,8 @@
 # Hi there! :wave:
 
-Welcome to my GitHub profile! I'm Stian Dille Kornbakk, a frontend developer passionate about creating captivating user experiences. Recently, I completed my studies at Noroff - School of Technology and Digital Media, specializing in frontend development. Currently, I am actively seeking my first frontend job opportunity.
+Welcome to my GitHub profile! I'm Stian Dille Kornbakk, and this repository showcases projects I worked on while studying frontend development at Noroff - School of Technology and Digital Media.
+
+Here, you’ll find a variety of projects that reflect my journey in mastering the essentials of web development and honing my technical and creative skills.
 
 Skills and Expertise:
 
@@ -16,8 +18,6 @@ Additional Competencies:
 - CMS: Experienced in content management systems, empowering clients with easy content updates.
 - Jest, Cypress: Familiar with testing frameworks to ensure stable and reliable code.
 
-In my development workflow, I emphasize continuous learning to stay updated with the latest frontend technologies. I am committed to creating great designs, adhering to WCAG guidelines to provide inclusive experiences for all users.
-
-Thank you for visiting my GitHub profile! I am excited to connect with fellow developers and explore opportunities to contribute my skills, passion, and dedication to innovative projects. Let's create exceptional web experiences together!
+I value creating accessible and user-friendly web solutions while following best practices. Feel free to explore my projects and take a look at the code—I’m always open to learning and sharing ideas!
 
 📫 Get in contact with me on [LinkedIn](https://www.linkedin.com/in/stian-dille-kornbakk-335b5a159/)
